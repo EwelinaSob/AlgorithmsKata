@@ -1,12 +1,7 @@
-/**
- *
- *  @author Sobipan Ewelina PD3531
- *
- */
 
-package zad1;
+package strings;
 
-import java.util.regex.*;
+
 
 public class Main {
 	public static void main(String[] args) {

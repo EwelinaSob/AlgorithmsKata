@@ -1,5 +1,4 @@
-package zad1;
-
+package strings;
 import java.util.regex.*;
 
 
