@@ -1,8 +1,3 @@
-/**
- *
- *  @author Sobipan Ewelina PD3531
- *
- */
 
 package zad3;
 
